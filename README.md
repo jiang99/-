@@ -1,4 +1,4 @@
 # -
-a special 小仙女
+a special fairy
 This is the first project
 THANKS
